@@ -1,5 +1,5 @@
 # ALERT!!!
-**THIS PROJECT WILL BE DISCONTINUED!!!***
+**THIS PROJECT WILL BE DISCONTINUED!!!**
 
 As of January 9, 2019 @0300 Hrs UTC, development on this project will stop.
 From this date & time forward, this experimental project will no longer be updated or supported by the developer, Cassandra "ZZ Cat" Robinson.
