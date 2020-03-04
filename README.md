@@ -1,9 +1,9 @@
 # ALERT!!!
-**THIS PROJECT WILL BE DISCONTINUED!!!**
+**THIS PROJECT IS DISCONTINUED!!!**
 
-As of January 9, 2019 @0300 Hrs UTC, development on this project will stop.
-From this date & time forward, this experimental project will no longer be updated or supported by the developer, Cassandra "ZZ Cat" Robinson.
-All experiments conducted within this project are completed & have proven successful; & all research-&-development conducted in this project will go on to be used in upcoming software releases right here, on GitHub.
+As of January 9, 2019 @0300 Hrs UTC, development on this project has stopped.
+This experimental project is no longer updated or supported by the developer, Cassandra "ZZ Cat" Robinson.
+All experiments conducted within this project are completed & have proven successful; & all research-&-development conducted in this project will be used in upcoming projects.
 
 # repotest
 
